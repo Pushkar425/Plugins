@@ -14,7 +14,7 @@ add_action('add_meta_boxes','create_metaboxes');
 
 
 function  article_function($post){
-    
+ ?>   
     <div>
         <label for="txtPublisherName">Publisher name</label>
         <?php
